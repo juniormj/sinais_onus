@@ -80,6 +80,10 @@ e o plugins do influxDB já estarão disponíveis.
 
 ![dashboard](imgs/config_panel.png)
 
+#### Resultado Final
+
+![final](imgs/final.png)
+
 ## 🛠️ Construído com
 ---
 
