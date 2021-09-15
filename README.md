@@ -136,5 +136,5 @@ Entre em contato!
 ## 📄 Licença
 ---
 
-Este projeto está licenciado sob a Licença [MIT](http://#)
+Este projeto está licenciado sob a Licença [MIT](LICENSE)
 
